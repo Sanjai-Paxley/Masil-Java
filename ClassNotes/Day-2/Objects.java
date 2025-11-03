@@ -1,4 +1,4 @@
-public class ObjectMethods {
+public class Objects {
   String color = "Red";
   int speed = 100;
 
