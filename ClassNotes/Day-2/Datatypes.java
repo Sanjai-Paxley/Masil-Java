@@ -1,4 +1,4 @@
- public class Basics {
+ public class Datatypes {
   public static void main(String args[]){
     System.out.println("This is printed by print statement");
     System.out.println("Datatypes");
