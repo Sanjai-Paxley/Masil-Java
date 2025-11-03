@@ -5,6 +5,6 @@ public class Basics {
     int num=20;
     System.out.printf("This is Integer %d\n",num);
     short numshort=365;
-    System.out.printf("This is Integer %d\n",num);
+    System.out.printf("This is Short Integer %d\n",numshort);
     
   }}
