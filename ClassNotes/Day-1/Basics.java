@@ -12,4 +12,6 @@
     System.out.printf("this is Float %f\n",numdecimal);
     double numdouble=44.32;
     System.out.printf("This is Double %f\n",numdouble);
+    char charac='A';
+    System.out.printf("This is character %c\n",charac);
     }}
