@@ -7,7 +7,7 @@ public class Basics {
     short numshort=365;
     System.out.printf("This is Short Integer %d\n",numshort);
     long numlong=3342;
-    System.out.printf("This is long Integer %d\n",numlong);
+    System.out.printf("This is Long Integer %d\n",numlong);
     float numdecimal=3.56f;
     System.out.printf("this is Float %f\n",numdecimal);
   }}
