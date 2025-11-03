@@ -3,5 +3,8 @@ public class Basics {
     System.out.println("This is printed by print statement");
     System.out.println("Datatypes");
     int num=20;
-    System.out.println("This is Integer %d",num);
+    System.out.printf("This is Integer %d\n",num);
+    short numshort=365;
+    System.out.printf("This is Integer %d\n",num);
+    
   }}
