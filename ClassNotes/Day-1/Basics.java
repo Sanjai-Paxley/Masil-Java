@@ -14,4 +14,7 @@
     System.out.printf("This is Double %f\n",numdouble);
     char charac='A';
     System.out.printf("This is character %c\n",charac);
+   boolean sam= true;
+   System.out.printf("This is Boolean %b\n",sam);
+   
     }}
